@@ -62,6 +62,7 @@ sysinfo.txt
 *.app
 
 *.wav
+*.bc
 
 # Crashlytics generated file
 crashlytics-build.properties
