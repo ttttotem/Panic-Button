@@ -63,6 +63,7 @@ sysinfo.txt
 
 *.wav
 *.bc
+*ArtifactDB
 
 # Crashlytics generated file
 crashlytics-build.properties
